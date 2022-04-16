@@ -1,0 +1,1 @@
+https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E5%BC%81
