@@ -2,7 +2,6 @@
 
 
 <iframe src="https://www.youtube.com/embed/McLlZHfutlk?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
-#video 
 
 [[ばんげ]][[さ]]　[[いぎなり]]よ
 いづ空い[[～てら|でら]]のってLINE
@@ -82,3 +81,5 @@
 くれぇ おめは まつこい人だじゃ
 だ[[ども]] まだ同じごどの繰り返しって
 わぁが ふられるべな
+
+#video 
