@@ -1,0 +1,3 @@
+[submodule ".obsidian/plugins/obsidian-pitch-accent"]
+	path = .obsidian/plugins/obsidian-pitch-accent
+	url = https://github.com/jacobalbano/obsidian-pitch-accent.git
