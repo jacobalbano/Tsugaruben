@@ -6,7 +6,6 @@
   "attachmentFolderPath": "Images",
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
-    "readme.md",
-    "docs"
+    "/docs/"
   ]
 }
